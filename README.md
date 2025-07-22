@@ -17,3 +17,7 @@ Es wird im Betrieb eingesetzt.
 
 🔒 Der Quellcode liegt in einem privaten Repository.  
 📫 Zugriff gewähre ich gerne auf Anfrage: **michael.rommel@posteo.de**
+
+❗ **Hinweis zur Nutzung:**
+Der enthaltene Quellcode, soweit zugänglich gemacht, dient ausschließlich zur Ansicht im Rahmen von Bewerbungen oder Lernzwecken.  
+**Jegliche kommerzielle Verwendung, Weitergabe oder Veröffentlichung ist ausdrücklich untersagt.**

@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Willkommen auf meinem GitHub-Profil
 
-<!--
-**8melorm6/8melorm6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin Michael – aktuell in Umschulung zum **Fachinformatiker für Anwendungsentwicklung**.
 
-Here are some ideas to get you started:
+🧑‍💻 **Technologiefokus aktuell:**
+- Webentwicklung mit **PHP**, **JavaScript** und **SQL**
+- Frontend/Backend ohne Frameworks
+- Eigenentwicklungen mit Fokus auf sauberen Code, UI/UX und Revisionssicherheit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Lernziele:**
+- Schrittweiser Ausbau in **C#** und **Python**
+- Verständnis von Softwarearchitektur, Versionskontrolle und sauberer Backend-Logik
+
+🛠️ **Projekt (privates Repository):**
+Ich entwickle (KI gestützt) ein webbasiertes, rollengesteuertes **Klassenbuch-System** mit Kalender, Sitzungslogik, Signaturen und Datenbank-Revision.  
+Es wird im Betrieb eingesetzt.
+
+🔒 Der Quellcode liegt in einem privaten Repository.  
+📫 Zugriff gewähre ich gerne auf Anfrage: **michael.rommel@posteo.de**
